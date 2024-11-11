@@ -1,0 +1,1 @@
+export const COMPANY = 'IES Pío Baroja'
